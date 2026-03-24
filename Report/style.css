@@ -1,0 +1,10 @@
+body{font-family:Arial;background:#f4f6f8;margin:0}
+header{background:#001f3f;color:white;padding:15px;display:flex;justify-content:space-between}
+.card{background:white;padding:20px;margin:20px;border-radius:8px}
+.full{width:95%}
+.center{display:flex;justify-content:center;align-items:center;height:100vh}
+.btn,.logout{background:#28a745;color:white;padding:8px 14px;text-decoration:none;border-radius:5px}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+th,td{border:1px solid #ccc;padding:8px}
+.paper{background:white;padding:40px}
+.error{color:red}
